@@ -1,0 +1,5 @@
+language = "python3"
+run = "python manage.py runserver 0.0.0.0:3000"
+
+# RUN THIS COMMAND IF YOU GET "'Keyword argument not understood:', 'offset' ERROR
+# python3 -m pip install tensorflow --no-cache-dir
